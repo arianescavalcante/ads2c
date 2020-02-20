@@ -1,0 +1,12 @@
+Teste:
+Cenário 1; Um passageiro em 5 km e o outro a 10 de distância do carro. 
+Resolução; Ele deve ir buscar o passageiro com menor distância.
+
+Cenário 2; Forma de pagamento, o passageiro tentou pagar com dinheiro em espécie, porém não tinha troco.   
+Resolução; Dar a opção de troco, se o passageiro, prefere receber, em saldo no aplicativo ou deseja ser transferido para uma conta de banco de sua preferência.
+
+Cenário 3; O passageiro não tem digital dos dedos legível.
+Resolução; Escanear fácil ou digital da palma da mão.
+
+Cenário 4; O passageiro foi transportado para o endereço errado por interferência de rede.
+Resolução; Transportar ao endereço correto sem cobrança adicional.

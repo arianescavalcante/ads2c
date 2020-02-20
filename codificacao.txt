@@ -1,0 +1,5 @@
+Codificação: 
+O sistema é feito em três codificações distintas, porém que se complementam.
+Python, para realizar inteligência artificial, no momento da locomoção.
+Java script, para aplicações visuais de web.
+Fluter, para os app em (android e ios).

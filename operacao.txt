@@ -1,0 +1,5 @@
+Operação: 
+O sistema deve ter servidores em nuvens com escala, 
+para que o script instale em vários servidores nos momentos de picos e retorne nas horas de baixa, 
+o sistema expanda rapidamente nos servidores, fazendo o serviço permanecer estável. 
+A navegação será através de GPS e sensores de aproximação.
