@@ -1,0 +1,4 @@
+Análise:
+O sistema deve ser, automatizado, com viagens curtas, de até duas pessoas.
+Carro sem motorista, com navegabilidade ágil, com mobilidade a propulsor de ar.
+Energia a água e sensores de proximidade para navegação e localização.

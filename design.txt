@@ -1,0 +1,5 @@
+Design: 
+O sistema deve ter pagamento (crédito, débito, dinheiro, cashback e criptomoeda) realizado diretamente na plataforma.
+O sistema deve ter, comunicação integrada entre a central e o passageiro, com chamada de vídeo, ligação de voz e mensagem escrita.
+O sistema deve ser, seguro, o passageiro só pode realizar a chamada do carro, através de uma conferência de identidade, através do reconhecimento do facial, digital ou da íris e só pode acessar o carro através dessas mesmas confirmações.
+O sistema deve, realizar localizações precisas, em tempo real com a possibilidade de adicionar os endereço favoritos para facilitar a usabilidade.
